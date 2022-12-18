@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranav Purohit
 - 👀 - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 
-- 🌱 I’m currently learning Mern Stack at Masai School
+- 🌱 I’m currently learning MERN Stack at Masai School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
