@@ -3,14 +3,10 @@
 
 - 👨‍🎓 I’m currently learning MERN Stack at Masai School
 
-Profile Views
 
-- My Portfolio - https://pranav-portfolio-1.netlify.app/
-- Group Project -  
-- Group Project -  
-- Group Project -  
-- 
-
+- My Portfolio  Link - https://pranav-portfolio-1.netlify.app/
+- Group Project Link - https://thehorse.netlify.app/
+- Group Project Link - https://shoppersstop-1.netlify.app/
 <!---
 pranav1432/pranav1432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
