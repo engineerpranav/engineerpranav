@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pranav-portfolio-1.netlify.app/](https://pranav-portfolio-1.netlify.app/)
 
-- 💬 Ask me about **React js,JavaScript**
+- 💬 Ask me about **React js,JavaScript,Html,Css,Java**
 
 - 📫 How to reach me **adi089076@gmail.com**
 
