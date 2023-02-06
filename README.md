@@ -41,12 +41,16 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav1432" alt="pranav1432" /></a> </p>
 
+<hr/>
+
 
 - Project 1 [Koo APP Clone](https://koo-app-1.netlify.app/)
 
 - Project 2 [Shoppersstop App Clone](https://shoppersstop-1.netlify.app/)
 
 - 💬 Ask me about **React js,Redux,JavaScript,Html,Css**
+
+<hr/>
 
 
 <h3 align="left">Languages and Tools:</h3>
