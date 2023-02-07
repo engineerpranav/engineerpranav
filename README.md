@@ -96,7 +96,6 @@
 <hr/>
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav1432" alt="pranav1432" /></a> </p><hr/>
     
-    <br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a></code>
