@@ -88,7 +88,7 @@
 <a href="https://pranav-portfolio-1.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="one" />
     </a>
-    <a title="adi089076@gmail.com" href="https://drive.google.com/file/d/1zxtg4RF8uEL5si-yHuC4TFtQWKuDhmDU/view">
+    <a title="adi089076@gmail.com" href="https://drive.google.com/file/d/1JkIaLABfZ9uZGW1n__lcgakO3MnFXitr/view">
         <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="two" />
     </a>
   
