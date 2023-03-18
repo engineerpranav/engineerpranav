@@ -9,7 +9,7 @@
 - 🛠 I’m currently learning about **M E R N**🥰 <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**. <br>
-- 💬 Ask me about **React js,Redux,JavaScript,Html,Css**
+- 💬 Ask me about **React js,Redux,JavaScript,Html,Css,Node js,Express js,Mongo db**
 
   <hr>
 
