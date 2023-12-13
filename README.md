@@ -5,10 +5,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
-- 🤔 I use daily `.js`,` .css`, `.html`
-- 🛠 I’m currently learning about **M E R N**🥰 <br>
+- 🤔 I use daily `.jsx, .tsx, .js`,` .css`, `.html`
+- 🛠 I’m Experienced Full stack Developer **M E R N**🥰 <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**. <br>
 - 💬 Ask me about **React js,Redux,JavaScript,Html,Css,Node js,Express js,Mongo db**
 
   <hr>
