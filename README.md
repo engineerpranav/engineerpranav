@@ -74,11 +74,11 @@
   
   <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav1432&show_icons=true&locale=en&layout=compact" alt="pranav1432" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavp-engineer&show_icons=true&locale=en&layout=compact" alt="pranavp-engineer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav1432&show_icons=true&locale=en" alt="pranav1432" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavp-engineer&show_icons=true&locale=en" alt="pranavp-engineer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav1432&" alt="pranav1432" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavp-engineer&" alt="pranavp-engineer" /></p>
   
    <hr>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h3>Professional Details ....</h3>
@@ -93,7 +93,7 @@
   
 </p>
 <hr/>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav1432" alt="pranav1432" /></a> </p><hr/>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavp-engineer" alt="pranavp-engineer" /></a> </p><hr/>
     
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
