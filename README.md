@@ -50,18 +50,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavp-engineer&" alt="pranavp-engineer" /></p>
   
    <hr>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h3>Professional Details ....</h3>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> <br>
-
-<a href="https://pranav-portfolio-1.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="one" />
-    </a>
-    <a title="adi089076@gmail.com" href="https://drive.google.com/file/d/1JkIaLABfZ9uZGW1n__lcgakO3MnFXitr/view">
-        <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="two" />
-    </a>
-  
-</p>
-<hr/>
+ 
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavp-engineer" alt="pranavp-engineer" /></a> </p><hr/>
     
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
