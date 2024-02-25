@@ -49,7 +49,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavp-engineer&" alt="pranavp-engineer" /></p>
   
-   <hr>
+   <hr/>
  
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavp-engineer" alt="pranavp-engineer" /></a> </p><hr/>
     
