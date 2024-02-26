@@ -9,7 +9,7 @@
 - 🛠 I’m Experienced Full stack Developer **M E R N**🥰 <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
 - 💬 Ask me about **React js,Redux,JavaScript,Html,Css,Node js,Express js,Mongo db**
--  Resume <a href="https://drive.google.com/file/d/18yLCZt_B-c_hZOzPrUXYMEMtlol-pLDq/view" />
+-  <a href="https://drive.google.com/file/d/18yLCZt_B-c_hZOzPrUXYMEMtlol-pLDq/view" >Resume </a>
 
   <hr>
 
