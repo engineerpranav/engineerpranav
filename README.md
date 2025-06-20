@@ -1,63 +1,62 @@
- ### Hi there 👋
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Daughter&amp;color=FF7722&amp;size=20&amp;lines=It's+Pranav+Purohit!;+FULL-Stack+Web+Developer...👨🏻‍💻;" style="width: 80%;">
-<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="200" height="200"/>
+### 👋 Hi there, I'm Pranav Purohit!
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
+<img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Daughter&color=FF7722&size=20&lines=It's+Pranav+Purohit!;+FULL-Stack+Web+Developer...👨🏻‍💻;" width="80%" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="200" height="200"/>
 
-- 🤔 I use daily `.jsx, .tsx, .js`,` .css`, `.html`
-- 🛠 I’m Experienced Full stack Developer **M E R N**🥰 <br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
-- 💬 Ask me about **React js,Redux,JavaScript,Html,Css,Node js,Express js,Mongo db**
--  <a href="https://drive.google.com/file/d/18yLCZt_B-c_hZOzPrUXYMEMtlol-pLDq/view" >Resume </a>
+---
 
-  <hr>
+### 🧑‍💻 About Me
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Connect with me ...._**
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />
+
+- 💻 I work daily with: `.js`, `.jsx`, `.tsx`, `.html`, `.css`
+- 🚀 Full Stack Developer specialized in **MERN Stack**
+- 🌱 Actively looking to contribute to **Open Source Projects**
+- 💬 Ask me about: **React.js, Redux, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS**
+
+---
+
+### 🤝 Connect with Me
+
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" />
+
+[![Email](https://img.shields.io/badge/Gmail-adi089076@gmail.com-red?style=flat&logo=gmail)](mailto:adi089076@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--purohit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/engineerpranav/)
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**  
+React • Redux • JavaScript • TypeScript • HTML • CSS • Material UI • Chakra UI  
+
+**Backend**  
+Node.js • Express.js • MongoDB • Mongoose • SQL • TypeORM • Docker  
+
+---
+
+### 📊 GitHub Stats
 
 <p>
-  <a href="mailto:adi089076@gmail.com">
-    <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/mail.png" width="32px"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-purohit-89283221b/">
-    <img align="left" src="https://github.com/AnupKamble/AnupKamble/blob/main/linked-in-alt.svg" width="28px" />
-  </a>
-   
-   <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerpranav&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engineerpranav&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
- 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineerpranav" alt="GitHub Streak" />
+</p>
 
-<hr/>
+---
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with people</b> – feel free to say hi!</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
-<h2 align="left">🚀 Languages and Tools:
+<p align="center">
+  <img src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" alt="Thanks" width="100%" />
+</p>
 
- ## Tech Stack
+---
 
-**Client:** React, Redux, JavaScript, TypeScript, Material UI, Chakra UI, CSS, HTML
-
-**Server:** Node, Express.JS, mongoDB, mongoose ODM, Docker, Type ORM, SQL
-
- 
-  
-  <hr/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerpranav&show_icons=true&locale=en&layout=compact" alt="engineerpranav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineerpranav&show_icons=true&locale=en" alt="engineerpranav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineerpranav&" alt="engineerpranav" /></p>
-  
-   <hr/>
- 
-   
-    
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a></code>
-
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg" alt="Footer" width="100%" />
